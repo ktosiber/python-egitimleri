@@ -1,6 +1,6 @@
 # python-egitimleri
 Üniversitemizde Düzenlenen Python Eğitimlerinin Dosyaları ve Projeleri
-Tavsiye edilen döküman : https://www.cs.uky.edu/~keen/115/Haltermanpythonbook.pdf
+#### Tavsiye edilen döküman : https://www.cs.uky.edu/~keen/115/Haltermanpythonbook.pdf
 
 | Hafta | Uygulama | Beni Oku Dosyası |
 | ------ | ------ | ------ |
